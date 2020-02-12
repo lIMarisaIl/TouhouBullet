@@ -1,2 +1,2 @@
 # TouhouBullet
-No description
+一个Minecraft的MOD
